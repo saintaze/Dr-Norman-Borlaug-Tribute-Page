@@ -11,7 +11,7 @@ It is a Dr. Norman Borlaug (American Agronomist) tribute page.
 
 # Live Version
 
-URL: [Dr. Norman Borlaug Tribute Page](https://saintaze.github.io/Newsweek-Clone/)
+URL: [Dr. Norman Borlaug Tribute Page](https://saintaze.github.io/Tribute-Page-Template/)
 
 # Author
 Saintaze [@saintaze](https://github.com/saintaze/)
