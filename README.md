@@ -2,7 +2,7 @@
 It is a Dr. Norman Borlaug (American Agronomist) tribute page.
 
 ### Features
-+ Simple and elegenat design
++ Simple and elegant design
 + Fully Responsive
 
 ##### Built With
@@ -11,7 +11,7 @@ It is a Dr. Norman Borlaug (American Agronomist) tribute page.
 
 # Live Version
 
-URL: [Dr. Norman Borlaug Tribute Page](https://saintaze.github.io/Tribute-Page-Template/)
+URL: [Dr. Norman Borlaug Tribute Page](https://saintaze.github.io/Dr-Norman-Borlaug-Tribute-Page/)
 
 # Author
 Saintaze [@saintaze](https://github.com/saintaze/)
